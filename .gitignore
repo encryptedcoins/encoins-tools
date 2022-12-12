@@ -1,7 +1,7 @@
 testnet/data/
 testnet/wallets/
-preview-testnet/data/
-preview-testnet/wallets/
+testnet-preview/data/
+testnet-preview/wallets/
 mainnet/data/
 mainnet/wallets/
 */wget-log
