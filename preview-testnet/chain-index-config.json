@@ -9,7 +9,7 @@
   "cicDbPath": "../data/chain-index.db",
   "cicNetworkId": {
     "contents": {
-      "unNetworkMagic": 1097911063
+      "unNetworkMagic": 2
     },
     "tag": "Testnet"
   },
