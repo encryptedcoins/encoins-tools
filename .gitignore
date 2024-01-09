@@ -19,6 +19,7 @@ testnet-preview/wallets/*
 testnet-preprod/apps/cardano-node/node.sock
 testnet-preprod/apps/encoins/blockfrost.token
 testnet-preprod/apps/encoins/maestro.token
+testnet-preprod/apps/encoins/pinata_jwt.token
 testnet-preprod/apps/encoins/debts.json
 testnet-preprod/apps/encoins/delegationMap.json
 testnet-preprod/apps/encoins/secrets/*
@@ -47,4 +48,3 @@ mainnet/data/
 mainnet/wallets/*
 !mainnet/wallets/wallet-example.json
 !mainnet/wallets/load_wallet.sh
-
