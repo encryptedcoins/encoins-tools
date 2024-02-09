@@ -11,5 +11,6 @@
   },
   "pinata_fetch_host": "coral-holy-gibbon-767.mypinata.cloud",
   "pinata_pin_host": "api.pinata.cloud",
-  "schedule_directory" : "token_burn_queue"
+  "schedule_directory" : "token_burn_queue",
+  "environment" : "preprod"
 }
