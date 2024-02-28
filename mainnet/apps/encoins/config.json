@@ -7,7 +7,7 @@
 , "protocol_parameters_file" : "../cardano-node/protocol-parameters.json"
 , "slot_config_file"         : "../plutus-chain-index/plutus-chain-index-config.json"
 , "wallet_file"              : "../../wallets/wallet.json"
-, "auxiliary_env_file"       : "relay-config.json"
+, "auxiliary_env_file"       : "relayConfig.json"
 , "network_id"               : {"tag" : "Mainnet", "contents" : null}
 , "bf_token_file_path"       : null
 , "maestro_token_file_path"  : null
