@@ -1,0 +1,19 @@
+{
+  "hyper_text_protocol": "HTTP",
+  "host": "localhost",
+  "port": 7000,
+  "network_id": {
+    "tag": "Testnet",
+    "contents": 1
+  },
+  "ipfs_currency_symbol": {
+    "unCurrencySymbol": "fa765a4f65920d1aaa4a072457d27a00d81374245afbe33d94fc1671"
+  },
+  "pinata_fetch_host": "coral-holy-gibbon-767.mypinata.cloud",
+  "pinata_pin_host": "api.pinata.cloud",
+  "schedule_directory" : "token_burn_queue",
+  "environment" : "preprod",
+  "verbosity" : "V0",
+  "severity" : "info",
+  "format_message" : true
+}
