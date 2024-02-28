@@ -35,7 +35,14 @@ How much ada you want to distribute and how much to keep for yourself is up to y
 IMPORTANT: it is strongly recommended not to store large amounts of crypto in such backend wallets.
 
 ## Data providers
-To use an external data provider, you need the corresponding token. External data providers are not yet available for the `encoins` app.
+To use an external data provider, you need the corresponding tokens.
 
 * You can get a free Blockfrost token by registering at https://blockfrost.io/. Write your token in quotes in the "blockfrost.token" file inside "mainnet/apps/encoins" folder (see "blockfrost.token.example" there).
 * You can get a free Maestro token by registering at https://gomaestro.org/. Write your token in quotes in the "maestro.token" file inside "mainnet/apps/encoins" folder (see "maestro.token.example" there).
+* To use lightweight wallet-provider (no cardano-node required) set `wallet_provider` field in `config.json` to this:
+```
+"wallet_provider" : {"tag" : "Lightweight", "addresses" : ["addr1", "addr2", ...]}
+```
+where `addresses` - list with your wallet tracked addresses in bech32. Don't set too many addresses, or you will very quickly burn all your maestro/blockfrost credits. Just one address will be enough.
+* To use `Maestro` chainindex provider set `chain_index_provider` field in `config.json` to `"Maestro"`.
+* To use `Maestro` transaction provider set `tx_provider` field in `config.json` to `"Maestro"`.
