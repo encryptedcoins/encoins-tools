@@ -39,7 +39,7 @@ To use an external data provider, you need the corresponding tokens.
 
 * You can get a free Blockfrost token by registering at https://blockfrost.io/. Write your token in quotes in the "blockfrost.token" file inside "mainnet/apps/encoins" folder (see "blockfrost.token.example" there).
 * You can get a free Maestro token by registering at https://gomaestro.org/. Write your token in quotes in the "maestro.token" file inside "mainnet/apps/encoins" folder (see "maestro.token.example" there).
-* To use lightweight wallet-provider (no cardano-node required) set `wallet_provider` field in `config.json` to this:
+* To use lightweight wallet-provider (no cardano-node required) set `wallet_provider` field in `config.json` to
 ```
 "wallet_provider" : {"tag" : "Lightweight", "addresses" : ["addr1", "addr2", ...]}
 ```
