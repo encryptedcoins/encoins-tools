@@ -9,8 +9,11 @@
 , "wallet_file"              : "../../wallets/wallet.json"
 , "auxiliary_env_file"       : "relayConfig.json"
 , "network_id"               : {"tag" : "Testnet", "contents" : 1}
-, "bf_token"                 : null
+, "bf_token_file_path"       : null
+, "maestro_token_file_path"  : null
+, "wallet_provier"           : "Cardano"
+, "chain_index_provider"     : "Kupo"
+, "tx_provider"              : "Cardano"
 , "collateral"               : null
-, "chain_index"              : "Kupo"
 , "active_endpoints"         : ["ping", "utxos", "submitTx", "newTx", "serverTx", "status", "version"]
 }
