@@ -6,6 +6,7 @@
     "tag": "Testnet",
     "contents": 1
   },
+  "maestro_token_file_path": "maestro.token",
   "ipfs_currency_symbol": {
     "unCurrencySymbol": "fa765a4f65920d1aaa4a072457d27a00d81374245afbe33d94fc1671"
   },
