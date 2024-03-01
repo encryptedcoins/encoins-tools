@@ -1,5 +1,6 @@
 { "ref_stake_owner"             : {"txOutRefId"  : {"getTxId" : "f86419f8eddc9971864f0fb5d990eeb1eb2edffd3b109a2fa0281f8daee4c248"}, "txOutRefIdx" : 0}
 , "ref_beacon"                  : {"txOutRefId"  : {"getTxId" : "7c011f984f9e96b0de90fddd17fd29db8b0743796e82b33a1b0afa774d8b4d07"}, "txOutRefIdx" : 0}
+, "validator_stake_key"         : "0bd016f8ba5857d2e2026da550e4b724a3e1e8d5598cbfab19ce756c"
 , "verifier_pkh"                : "7F04730FC0F75A7D20BEB8CD152B2B8571591282EC8E5A3FC266C52049A3A5C6"
 , "verifier_host"               : "3.71.79.183"
 , "verifier_port"               : 3001
