@@ -10,7 +10,6 @@
   "currency_symbol": {
     "unCurrencySymbol": "fa765a4f65920d1aaa4a072457d27a00d81374245afbe33d94fc1671"
   },
-  "save_directory" : "saved_tokens",
   "environment" : "preprod",
   "verbosity" : "V0",
   "severity" : "info",
