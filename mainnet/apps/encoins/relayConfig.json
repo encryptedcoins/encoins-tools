@@ -6,7 +6,7 @@
 , "verifier_port"               : 3001
 , "verifier_protocol"           : "HTTP"
 , "delegation_currency_symbol"  : {"unCurrencySymbol" : "9abf0afd2f236a19f2842d502d0450cbcd9c79f123a9708f96fd9b96"}
-, "delegation_token_name"       : {"unTokenName" : "ENCS"}
+, "delegation_token_name"       : {"unTokenName" : "454e4353"}
 , "delegation_server_host"      : "l2y0u35vje.execute-api.eu-central-1.amazonaws.com"
 , "delegation_server_port"      : 443
 , "delegation_server_protocol"  : "HTTPS"

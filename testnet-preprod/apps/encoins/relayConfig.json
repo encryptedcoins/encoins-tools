@@ -6,7 +6,7 @@
 , "verifier_port"               : 3001
 , "verifier_protocol"           : "HTTP"
 , "delegation_currency_symbol"  : {"unCurrencySymbol" : "3f5c890bd432d76b7d2fef7076a0205a02d78be99901c3c37f447dce"}
-, "delegation_token_name"       : {"unTokenName" : "ENCS"}
+, "delegation_token_name"       : {"unTokenName" : "454e4353"}
 , "delegation_server_host"      : "localhost"
 , "delegation_server_port"      : 3002
 , "delegation_server_protocol"  : "HTTP"
