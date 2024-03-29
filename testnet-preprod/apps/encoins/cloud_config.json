@@ -7,12 +7,9 @@
     "contents": 1
   },
   "maestro_token_file_path": "maestro.token",
-  "ipfs_currency_symbol": {
+  "currency_symbol": {
     "unCurrencySymbol": "fa765a4f65920d1aaa4a072457d27a00d81374245afbe33d94fc1671"
   },
-  "pinata_fetch_host": "coffee-eldest-cardinal-577.mypinata.cloud",
-  "pinata_pin_host": "api.pinata.cloud",
-  "schedule_directory" : "token_burn_queue",
   "environment" : "preprod",
   "verbosity" : "V0",
   "severity" : "info",
