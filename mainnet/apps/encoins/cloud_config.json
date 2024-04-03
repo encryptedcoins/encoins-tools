@@ -13,5 +13,6 @@
   "environment" : "mainnet",
   "verbosity" : "V0",
   "severity" : "info",
-  "format_message" : true
+  "format_message" : true,
+  "stale_time" : 1712164759
 }
