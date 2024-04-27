@@ -13,5 +13,7 @@
   "environment" : "mainnet",
   "verbosity" : "V0",
   "severity" : "info",
-  "format_message" : true
+  "format_message" : true,
+  "clean_delay" : 604800,
+  "discard_period" : 43200
 }
